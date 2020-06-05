@@ -1,0 +1,19 @@
+SQL Zadanie
+
+host: brak
+
+Database dmb
+
+DBMS MySql
+
+Baza danych do ksiêgowania zamówieñ
+
+objekty:
+
+Tabele:
+-miasa
+-klienci
+-zamowienia
+-zamowione produkty
+-sprzedawcy
+-produkty
